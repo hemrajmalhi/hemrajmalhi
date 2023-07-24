@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **SpringBoot, Django, DRF , RestAPI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hemrajmalhi?tab=repositories](https://github.com/hemrajmalhi?tab=repositories)
-
 - 💬 Ask me about **Python, Django, Java, SpringBoot**
 
 - 📫 How to reach me **hemrajmalhi1234@gmail.com**
@@ -18,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemrajmalhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemrajmalhi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/hemraj-malhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hemraj-malhi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hemrajmalhi1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hemrajmalhi1234" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17956390/hemraj-malhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hemraj-malhi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hemrajmalhi1234?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hemrajmalhi1234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
