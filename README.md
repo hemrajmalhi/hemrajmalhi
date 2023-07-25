@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hemrajmalhi1234@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/hemrajmalhi?tab=repositories](https://github.com/hemrajmalhi?tab=repositories)
-
 - ⚡ Fun fact **😄😄**
 
 <h3 align="left">Connect with me:</h3>
