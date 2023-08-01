@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemraj Malhi</h1>
 <h3 align="center">A Backend Wizard 🧙‍♂️ | Coding Enthusiast | Pythonista</h3>
 <hr>
-- 🔭 I’m currently working on [Meri Kitab](https://github.com/hemrajmalhi/Meri-kitab)
+- 🔭 I’m currently working on Meri Kitab
 
 - 🌱 I’m currently learning **SpringBoot, Django, DRF , RestAPI**
 
