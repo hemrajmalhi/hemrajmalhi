@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hemraj Malhi</h1>
-<h3 align="center">A Backend Wizard 🧙‍♂️ | Coding Enthusiast | Pythonista</h3>
+<h3 align="center">A Backend Wizard 🧙‍♂️ | Coding Enthusiast </h3>
 <hr>
 - 🔭 I’m currently working on Meri Kitab
 
-- 🌱 I’m currently learning **SpringBoot, Django, DRF , RestAPI**
+- 🌱 I’m currently learning **SpringBoot, Docker,**
 
-- 💬 Ask me about **Python, Django, Java, SpringBoot**
+- 💬 Ask me about **C#, .Net, Java, SpringBoot**
 
 - 📫 How to reach me **hemrajmalhi1234@gmail.com**
 
