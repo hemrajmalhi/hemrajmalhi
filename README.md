@@ -76,22 +76,6 @@
     </a> 
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-    <a href="https://github.com/yourusername/project1" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 1 Screenshot" width="150" height="150"/>
-        <h4>Project 1: Meri Kitab</h4>
-        <p>A brief description of the project goes here. Highlight the main features and technologies used.</p>
-    </a>
-</p>
-<p align="left">
-    <a href="https://github.com/yourusername/project2" target="_blank">
-        <img src="https://via.placeholder.com/150" alt="Project 2 Screenshot" width="150" height="150"/>
-        <h4>Project 2: Another Project</h4>
-        <p>A brief description of the project goes here. Highlight the main features and technologies used.</p>
-    </a>
-</p>
-
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=hemrajmalhi&show_icons=true&locale=en&layout=compact"
         alt="hemrajmalhi" /></p>
