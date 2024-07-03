@@ -3,7 +3,7 @@
 <hr>
 - 🔭 I’m currently working on Meri Kitab
 
-- 🌱 I’m currently learning **SpringBoot, Docker,**
+- 🌱 I’m currently learning **.Net .Net Core .Net Core Web API, Docker,**
 
 - 💬 Ask me about **C#, .Net, Java, SpringBoot**
 
